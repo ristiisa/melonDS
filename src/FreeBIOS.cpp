@@ -24,6 +24,8 @@
     POSSIBILITY OF SUCH DAMAGE.
 */
 
+#include <algorithm>
+
 #include "FreeBIOS.h"
 
 namespace melonDS
